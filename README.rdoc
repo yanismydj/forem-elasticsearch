@@ -1,3 +1,7 @@
 = ForemElasticsearch
 
+## Elastic Search for Forem
+
+Inspired by @jgadbois [forem-postgres-search](https://github.com/jgadbois/forem-postgres-search)
+
 This project rocks and uses MIT-LICENSE.
